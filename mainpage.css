@@ -1,0 +1,131 @@
+*{
+    padding: 0px;
+}
+.head
+{
+    width:100%;
+    float: left;
+}
+
+.profile
+{
+    height: 100px;
+    width: 100px;
+    padding: 40px 40px 50px;
+    float: left;
+    
+}
+.welcome
+{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding:55px 0px 0px;
+    font-size: 30px;
+}
+.welcome h3
+{
+    float: left;
+    padding: 10px 0px 0px;
+    color: #1c9ec1;
+}
+.welcome h2
+{
+    float: left;
+    color: #1c9ec1;
+}
+.welcome h6
+{
+    padding: 15px 0px 0px;
+    float: left;
+    color: #1c9ec1;
+}
+.logout
+{
+    float: right;
+    height: 60px;
+    width: 80px;
+    padding: 30px 0px 20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+    color: #1c9ec1;
+}
+.head-2
+{
+    width: auto;
+  float: left;
+}
+.arrow
+{
+    width: 30px;
+    padding: 35px 20px 30px;
+    
+}
+
+.page{
+    width: 40px;
+    padding: 25px 0px 30px;
+}
+.list
+{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+    color: #1c9ec1;
+    padding: 6px 10px 30px;
+}
+table{
+    overflow: hidden;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+    color: #1c9ec1;
+    padding-left: 183px;
+    
+}
+td,th{
+    border: 1px solid #1c9ec1;
+    text-align: center;
+    padding: 0px 60.6px;
+    border-collapse: collapse;
+    
+}
+
+tr:nth-child(even){
+    background-color: #ffffff;
+    
+}
+.addnew
+{
+    width: 96%;
+}
+.table
+{
+    float:right;
+       
+}
+.table-1
+{
+    border-collapse: collapse;
+    
+}
+.edit
+{
+    width: 20px;
+    padding: 10px 10px 5px; 
+}
+
+#copy1
+{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 1.5vw;
+    color: white;
+    padding: 30px 60px 20px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#gradient
+{
+    height: 109px;
+    background-image: linear-gradient(to bottom, rgba(38,164,183,184),rgba(38,164,183,184));
+    margin-top: 30px;
+    padding: 0px;
+}
+@media only screen(min-width:786px)
